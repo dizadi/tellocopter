@@ -1,0 +1,5 @@
+DJITelloPy/
+perception/darknet
+__pycache__/
+perception/__pycache__/
+
